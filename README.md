@@ -37,7 +37,7 @@ You are tasked with building a simple car park management system in Node.js usin
 
 #### Submission:
 - Commit your changes to your forked repository.
-- Submit your solution via a pull request (PR) to the original repository.
+- Submit your solution sharing the link of your forked repository via Linkedin.
 - Include any necessary instructions for running the program.
 - Provide a brief explanation of your design choices and any trade-offs made.
 
