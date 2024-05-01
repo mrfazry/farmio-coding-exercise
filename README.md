@@ -17,25 +17,27 @@ You are tasked with building a simple car park management system in Node.js usin
 - Write clean and maintainable code with proper documentation and comments.
 
 #### Instructions:
-1. **Setup**: Set up a new Node.js project with TypeScript.
-2. **Implementation**: 
+1. **Fork Repository**: Fork the provided repository to your GitHub account.
+2. **Setup**: Clone the forked repository and set up a new Node.js project with TypeScript.
+3. **Implementation**: 
     - Define a Car class with properties for registration number and color.
     - Implement a CarPark class with methods for adding cars, removing cars, and listing cars.
-3. **User Interaction**:
+4. **User Interaction**:
     - Use command-line interface (CLI) or `stdin` for user input.
     - Allow users to interactively add, remove, and list cars.
-4. **Error Handling**:
+5. **Error Handling**:
     - Handle invalid inputs such as duplicate registration numbers or removing non-existent cars.
-5. **Testing**: 
+6. **Testing**: 
     - Write tests to ensure the implemented functionalities work correctly.
-6. **Documentation**: 
+7. **Documentation**: 
     - Provide comments and documentation to explain your code's logic and any algorithms used.
-7. **Completion**: 
+8. **Completion**: 
     - Aim to complete the core functionalities within one hour.
     - If you finish early, consider adding optimizations or additional features.
 
 #### Submission:
-- Submit your solution as a TypeScript project.
+- Commit your changes to your forked repository.
+- Submit your solution via a pull request (PR) to the original repository.
 - Include any necessary instructions for running the program.
 - Provide a brief explanation of your design choices and any trade-offs made.
 
